@@ -1,0 +1,13 @@
+C:\Users\adnan\OneDrive\Documents\OOP\Iteration1\bin\Debug\netcoreapp3.1\Iteration1.deps.json
+C:\Users\adnan\OneDrive\Documents\OOP\Iteration1\bin\Debug\netcoreapp3.1\Iteration1.dll
+C:\Users\adnan\OneDrive\Documents\OOP\Iteration1\bin\Debug\netcoreapp3.1\Iteration1.pdb
+C:\Users\adnan\OneDrive\Documents\OOP\Iteration1\obj\Debug\netcoreapp3.1\Iteration1.csproj.AssemblyReference.cache
+C:\Users\adnan\OneDrive\Documents\OOP\Iteration1\obj\Debug\netcoreapp3.1\Iteration1.AssemblyInfoInputs.cache
+C:\Users\adnan\OneDrive\Documents\OOP\Iteration1\obj\Debug\netcoreapp3.1\Iteration1.AssemblyInfo.cs
+C:\Users\adnan\OneDrive\Documents\OOP\Iteration1\obj\Debug\netcoreapp3.1\Iteration1.csproj.CoreCompileInputs.cache
+C:\Users\adnan\OneDrive\Documents\OOP\Iteration1\obj\Debug\netcoreapp3.1\Iteration1.dll
+C:\Users\adnan\OneDrive\Documents\OOP\Iteration1\obj\Debug\netcoreapp3.1\Iteration1.pdb
+C:\Users\adnan\OneDrive\Documents\OOP\Iteration1\bin\Debug\netcoreapp3.1\Iteration1.exe
+C:\Users\adnan\OneDrive\Documents\OOP\Iteration1\bin\Debug\netcoreapp3.1\Iteration1.runtimeconfig.json
+C:\Users\adnan\OneDrive\Documents\OOP\Iteration1\bin\Debug\netcoreapp3.1\Iteration1.runtimeconfig.dev.json
+C:\Users\adnan\OneDrive\Documents\OOP\Iteration1\obj\Debug\netcoreapp3.1\Iteration1.genruntimeconfig.cache
